@@ -1,0 +1,80 @@
+h1{
+    color: black;
+    font-family: cursive;
+    margin-top: 2%;
+}
+h3{
+    color: black;
+    size: 20%;
+    margin-top: 6%;
+    font-family: cursive;
+}
+h4{
+    color: black;
+    size: 40%;
+    font-family: cursive;
+}
+body{
+    background-color:grey;
+    background: url(ce1f9cc7-ef08-4f1c-9e30-40fe5dc0303f.png);
+    background-size: cover;
+}
+.menu1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 50px;
+   
+    
+}
+.menu2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 50px;
+
+}
+.item1{
+    border-radius: 30px;
+    width: 20%;
+    height: 50%;
+    margin-top: 5%;
+}
+.item2{
+    border-radius: 30px;
+    width: 30%;
+    height: 50%;
+    margin-top: 10%;
+   
+   
+}
+.firstItem{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: ;
+    border-radius: 80px; 
+
+}
+.seconditem{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:;
+    border-radius: 80px; 
+    margin-bottom: 5%;
+   margin-right: 7%;
+}
+
+button{
+    color: black;
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: cursive;
+}
+button:hover{
+    background-color: beige;
+}

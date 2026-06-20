@@ -1,0 +1,32 @@
+.model{
+    width: 80%;
+    height: 80%;
+    border-radius: 30px;
+}
+.shopping{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+body{
+    background-color: gray;
+}
+.allign{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.allign1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h1{
+    color: black;
+}
+h3{
+ color: white;
+}

@@ -1,0 +1,32 @@
+body{
+    background-color: grey;
+    background: url(pexels-resourceboy-18541778.jpg);
+    background-size: cover;
+}
+.allign{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: black;
+    width: 30%;
+    margin-left: 35%;
+    border-radius: 30px;
+    margin-top: 2%;
+}
+h1{
+    color: white;
+    margin-top: 5%;
+    font-family: sans-serif;
+}
+h3{
+    color: white;
+    font-family: sans-serif;
+}
+button{
+    color: black;
+    background-color: white;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+}
